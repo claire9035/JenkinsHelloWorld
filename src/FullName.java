@@ -17,7 +17,7 @@ public class FullName {
 		
 		String newName = Firstname.concat(" " + Lastname);
 		System.out.println(newName);
-		
+		System.out.println("Claire Rodriguez");
 		
 	}
 
